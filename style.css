@@ -1,0 +1,35 @@
+.box{
+    border: 10px solid rgb(23, 22, 24);
+    padding:200px; 
+     
+    text-align:center;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-top: 40px; 
+    margin-bottom: 20px;
+   margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 40px;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    background-image:url("https://cdn.pixabay.com/photo/2016/12/18/12/39/doll-1915614__340.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+
+}
+header{
+ 
+    color: blue;
+    font-size: medium;
+    text-align: center;
+}
+*
+{
+    background-image: url("https://cdn.wallpapersafari.com/91/86/mo0rJY.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
